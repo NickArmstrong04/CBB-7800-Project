@@ -1,0 +1,6 @@
+# NHANES data is public but large; re-download with merge_lab_liver.py
+data/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
