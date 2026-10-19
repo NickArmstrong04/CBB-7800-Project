@@ -1,5 +1,7 @@
-# CBB 7400 Project: FibroScan referral decision support
+# Routine Labs to Liver Elastography Referral: A Data-Driven Alternative to FIB-4
 
+
+CBB 7400 class project.
 Clinical decision support for a graduate biomedical informatics class project.
 Question: given routine bloodwork and vitals, should a patient be referred for
 liver elastography (FibroScan)? The baseline to beat is FIB-4.
