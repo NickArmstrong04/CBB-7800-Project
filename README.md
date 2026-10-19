@@ -1,4 +1,4 @@
-# CBB 7800 Project: FibroScan referral decision support
+# CBB 7400 Project: FibroScan referral decision support
 
 Clinical decision support for a graduate biomedical informatics class project.
 Question: given routine bloodwork and vitals, should a patient be referred for
